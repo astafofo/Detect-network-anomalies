@@ -15,7 +15,7 @@ A comprehensive machine learning system for detecting network anomalies using mu
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/astafofo/Detect-network-anomalies-using-machine-learning-models.git
 cd "Detect network anomalies"
 ```
 
